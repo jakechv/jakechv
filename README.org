@@ -2,8 +2,8 @@
 
 Proprietary platforms can't truly support free software. 
 
-The lack of accessibility features and platform transparency is destructive. 
+The lack of accessibility features and platform transparency is inexcusable for a platform that prides itself on supporting software developers. 
 
-Check out [[https://git.sr.ht][sourcehut]] instead, 
+Alternatively, check out [[https://git.sr.ht][sourcehut]]
 
-or, [[https://gitea.io/][host your own]].
+or [[https://gitea.io/][host your own GitHub clone]].
