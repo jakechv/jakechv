@@ -4,7 +4,7 @@ Proprietary platforms can't truly support free software.
 
 The lack of accessibility features and platform transparency is destructive. 
 
-Check out [git.sr.ht](git.sr.ht) instead. 
+Check out [git.sr.ht](https://git.sr.ht) instead. 
 
 <!--
 **jakechv/jakechv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
