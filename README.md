@@ -1,6 +1,7 @@
 ### GitHub supports ICE! 
+### Proprietary platforms can't truly support free software! 
 
-Check out [git.sr.ht](Sourcehut) instead. 
+##### Check out [git.sr.ht](Sourcehut) instead. 
 
 <!--
 **jakechv/jakechv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
