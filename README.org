@@ -1,7 +1,5 @@
-* GitHub supports ICE! 
+* End to End Encryption is a Right. 
 
-Proprietary platforms can't truly support free software. 
+The [https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it](The EARN-IT act) is a bill put forth by Congress to mandate a backdoor in any end-to-end encrypted software. This is terrible for the journalists, whistleblowers and activists relying on such software to keep them safe from potentially malevolent domestic and international actors. A backdoor in end-to-end encrypted software won't just let our government access the information, but will also enable anyone given enough time and effort to be able to access the information as well. 
 
-The lack of accessibility features and platform transparency is inexcusable for a platform that claims to pride itself on supporting open-source software development. 
-
-Consider using [[https://git.sr.ht][sourcehut]] or [[https://gitea.io/][hosting your own GitHub clone]].
+[https://actionnetwork.org/petitions/dont-let-congress-kill-encryption](Sign the petition here).
