@@ -1,5 +1,5 @@
 * End to End Encryption is a Right. 
 
-The [https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it](The EARN-IT act) is a bill put forth by Congress to mandate a backdoor in any end-to-end encrypted software. This is terrible for the journalists, whistleblowers and activists relying on such software to keep them safe from potentially malevolent domestic and international actors. A backdoor in end-to-end encrypted software won't just let our government access the information, but will also enable anyone given enough time and effort to be able to access the information as well. 
+[THe EARN-IT act](https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it) is a bill put forth by Congress to mandate a backdoor in any end-to-end encrypted software. This is terrible for the journalists, whistleblowers and activists relying on such software to keep them safe from potentially malevolent domestic and international actors. A backdoor in end-to-end encrypted software won't just let our government access the information, but will also enable anyone given enough time and effort to be able to access the information as well. 
 
-[https://actionnetwork.org/petitions/dont-let-congress-kill-encryption](Sign the petition here).
+[Sign the petition here](https://actionnetwork.org/petitions/dont-let-congress-kill-encryption).
