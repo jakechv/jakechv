@@ -1,0 +1,4 @@
+#+TITLE: Employment
+This serves as a single source of truth for my employment history.
+
+It is to be rendered to [[https://jacob.chvatal.com/employment][my website]], [[https://github.com/jakechv/resume][my resume]] and [[https://linkedin.com/in/jacob-chvatal][my LinkedIn]].

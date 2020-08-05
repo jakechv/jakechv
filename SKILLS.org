@@ -1,0 +1,22 @@
+#+TITLE: Skills
+
+This page contains a list of my skills.
+The data should be primarily auto-generated,
+but should accept manual overrides for the information.
+
+As all of my projects should be public on GitHub,
+I should be able to glean all of this information from my profile
+by looking at the languages used.
+
+I can also look at the information in my wiki and the frequency
+at which different words are used.
+Analyzing the wiki seems useful for a variety of reasons,
+not just for putting skills on my resume!
+
+This information should be rendered to [[https://jacob.chvatal.com/skills][my website]], [[my resume]] and [[https://linkedin.com/in/jacob-chvatal][my LinkedIn]].
+
+Things to consider:
+- Should descriptions be provided for each of the skills?
+  These would not be rendered on my resume or linkedin.
+- Should links be provided for each of the skills?
+  These would not be on my linkedin and likely would not be on my resume.

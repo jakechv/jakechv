@@ -1,0 +1,4 @@
+#+TITLE: About
+
+This page is a brief summary of me.
+It's to be rendered to [[https://jacob.chvatal.com][my website]] and [[https://linkedin.com/in/jacob-chvatal][my LinkedIn profile]].

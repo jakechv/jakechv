@@ -1,0 +1,4 @@
+#+TITLE: Education
+
+This file serves as a summary of my education.
+It's to be rendered to [[https://jacob.chvatal.com/education][my website]], [[https://github.com/jakechv/resume][my resume]] and [[https://linkedin.com/in/jacob-chvatal][my LinkedIn]].
