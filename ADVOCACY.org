@@ -1,0 +1,4 @@
+#+TITLE: Advocacy
+
+Causes I feel passionate about.
+This page should be rendered [[https://jacob.chvatal.com/advocacy][to my website]] and perhaps to other places.
