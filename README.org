@@ -6,12 +6,12 @@
 
 *** I'm working on:
 - Prototyping a data management service at Intel 
-- (Incoming) the Scandinavian grain market at Skira
+- (Incoming) Changing the Scandinavian grain market at Skira
 - Developing Sieve, a multimedia inspiration platform for creative people
 - Transforming the way I build and manage software with Nix and NixOS
 
 *** I'm learning about:
-- Formal verification with Coq, Idris and Haskell
+- Formal verification and type theory with Coq, Idris and Haskell
 - Compiler construction and static analysis with Rust and Ocaml
 
 #+ORG_NOW_EXPORT: false
