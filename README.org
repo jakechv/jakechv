@@ -1,7 +1,7 @@
 ** Hey, I'm [[https://jacob.chvatal.com][Jacob Chvatal]].
 *** I'm interested in:
-- Formal verification
-- Programming language development
+- Personal information management
+- Programming languages and development tools
 - Interdisciplinary, accessible design
 
 *** I'm working on:
