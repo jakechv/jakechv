@@ -7,11 +7,7 @@
 *** I'm working on:
 - Transforming the Scandinavian grain market at Skira
 - Developing Sieve, a multimedia inspiration platform for creative people
-- Transforming the way I build and manage software with Nix and NixOS
-
-*** I'm learning about:
-- Formal verification and type theory with Coq, Idris and Haskell
-- Compiler construction and static analysis with Rust and Ocaml
+- Codifying personal principles
 
 If you'd like, you can [[https://wiki.chvatal.com][check out my notes]] or [[https://blog.chvatal.com][keep up with my blog]].
 
