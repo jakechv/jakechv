@@ -1,4 +1,5 @@
 ** Hey, I'm [[https://jacob.chvatal.com][Jacob Chvatal]].
+
 *** I'm interested in:
 - Personal information management
 - Programming languages and development tools
@@ -7,7 +8,7 @@
 *** I'm working on:
 - Transforming the Scandinavian grain market at Skira
 - Developing Sieve, a multimedia inspiration platform for creative people
-- Codifying personal principles
+- Learning about innovative web technologies
 
 If you'd like, you can [[https://wiki.chvatal.com][check out my notes]] or [[https://blog.chvatal.com][keep up with my blog]].
 
