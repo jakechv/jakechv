@@ -1,0 +1,28 @@
+#+title: Accounts
+
+All of my accounts are listed here in the interest of claiming my digital identity.
+Note that I do not condone or endorse the use of most of these services and am unlikely to keep all of them up to date.
+
+* Music
+[[https://soundcloud.com/jakeisnt][soundcloud]]
+[[https://jakeisnt.bandcamp.com][bandcamp]]
+[[https://open.spotify.com/user/a2yiqpxxa7vd6235m62wjt7xf?si=LAu9SuYmTK-jKDvEwMZZUw][spotify]]
+* Video
+[[https://www.youtube.com/channel/UCz5K4jW7HDsIgqugO9CwPMQ][youtube]]
+[[https://vimeo.com/jakeisnt][vimeo]]
+* Git
+[[https://github.com/jakeisnt][github]]
+[[https://gitlab.com/jakeisnt][gitlab]]
+[[https://sr.ht/~jakeisnt][sourcehut]]
+* Social
+[[https://twitter.com/jakeissnt][twitter]]
+[[https://merveilles.town/jakeisnt][merveilles//via:mastodon]]
+[[https://linkedin.com/in/jacob-chvatal][linkedin]]
+[[https://facebook.com/jakeissnt][facebook]]
+[[https://reddit.com/jakeisnt][reddit]]
+* Mail
+jake@isnt.online [primary]
+jacob@chvatal.com [formal]
+chvatal.j@northeastern.edu [academic]
+jakechvatal@gmail.com [legacy]
+
