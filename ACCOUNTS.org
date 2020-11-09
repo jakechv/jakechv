@@ -16,10 +16,13 @@ Note that I do not condone or endorse the use of most of these services and am u
 [[https://sr.ht/~jakeisnt][sourcehut]]
 * Social
 [[https://twitter.com/jakeissnt][twitter]]
-[[https://merveilles.town/jakeisnt][merveilles//via:mastodon]]
+[[https://merveilles.town/@jakeisnt][merveilles//via:mastodon]]
 [[https://linkedin.com/in/jacob-chvatal][linkedin]]
 [[https://facebook.com/jakeissnt][facebook]]
-[[https://reddit.com/jakeisnt][reddit]]
+[[https://reddit.com/u/jakeisnt][reddit]]
+[[https://news.ycombinator.com/user?id=jakeisnt][hackernews]]
+[[https://medium.com/@jakeisnt][medium]]
+[[https://jakeisnt.substack.com][substack]]
 * Mail
 jake@isnt.online [primary]
 jacob@chvatal.com [formal]
