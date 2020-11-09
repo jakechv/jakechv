@@ -1,13 +1,13 @@
 #+title: Accounts
 
-All of my accounts are listed here in the interest of claiming my digital identity.
-Note that I do not condone or endorse the use of most of these services and am unlikely to keep all of them up to date.
+All of my accounts are listed here in the interest of tracking my digital footprint and claiming my identity.
+Note that I do not condone, endorse or currently use most of these services.
 
 ** Music
 - [[https://soundcloud.com/jakeisnt][soundcloud]]
 - [[https://jakeisnt.bandcamp.com][bandcamp]]
 - [[https://open.spotify.com/user/a2yiqpxxa7vd6235m62wjt7xf?si=LAu9SuYmTK-jKDvEwMZZUw][spotify]]
-* Video
+** Video
 - [[https://www.youtube.com/channel/UCz5K4jW7HDsIgqugO9CwPMQ][youtube]]
 - [[https://vimeo.com/jakeisnt][vimeo]]
 ** Git
@@ -23,9 +23,22 @@ Note that I do not condone or endorse the use of most of these services and am u
 - [[https://news.ycombinator.com/user?id=jakeisnt][hackernews]]
 - [[https://medium.com/@jakeisnt][medium]]
 - [[https://jakeisnt.substack.com][substack]]
+- [[https://instagram.com/jakeisnt][instagram]]
+- [[https://keybase.io/jakechvatal][keybase]]
+** Gaming
+- [[http://cubecobra.com/user/view/5d72d5e5d13edd6540b060f3][cubecobra]] 
+- [[http://cubetutor.com/user/jakechvatal][cubetutor]]
+- [[http://tappedout.net/users/jakechvatal][tappedout]]
+** Marketplaces
+- [[http://www.ebay.com/usr/jakeisnt][ebay]] 
+- [[https://www.grailed.com/jakeisnt][grailed]]
 ** Mail
 - jake@isnt.online [primary]
 - jacob@chvatal.com [formal]
 - chvatal.j@northeastern.edu [academic]
 - jakechvatal@gmail.com [legacy]
-
+** Unlinked
+- discord :: jakeisnt#4275
+- whatsapp
+- signal
+- google
