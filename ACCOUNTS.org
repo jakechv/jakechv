@@ -37,6 +37,8 @@ Note that I do not condone, endorse or currently use most of these services.
 - jacob@chvatal.com [formal]
 - chvatal.j@northeastern.edu [academic]
 - jakechvatal@gmail.com [legacy]
+** etc
+- [[https://www.openstreetmap.org/user/jakeisnt][openstreetmap]] 
 ** Unlinked
 - discord :: jakeisnt#4275
 - whatsapp
