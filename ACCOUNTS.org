@@ -47,6 +47,7 @@ Note that I do not condone, endorse or currently use most of these services.
 - jakechvatal@gmail.com [legacy]
 ** etc
 - [[https://www.openstreetmap.org/user/jakeisnt][openstreetmap]] 
+- [[https://www.strava.com/athletes/73012159][strava]] 
 ** Unlinked
 - google :: mailto:jakechvatal@gmail.com
 - discord :: jakeisnt#4275
