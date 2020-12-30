@@ -6,9 +6,9 @@
 - Interdisciplinary, accessible design
 
 *** I'm working on:
-- Transforming the Scandinavian grain market at Skira
-- Developing Sieve, a multimedia inspiration platform for creative people
-- Learning about innovative web technologies
+- Perfecting my NixOS system setup
+- Developing novel editor technologies
+- Living with principle and balance
 
 If you'd like, you can [[https://wiki.chvatal.com][check out my notes]] or [[https://blog.chvatal.com][keep up with my blog]].
 
