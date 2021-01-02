@@ -33,6 +33,10 @@ Note that I do not condone, endorse or currently use most of these services.
 - [[https://hypothes.is/users/jakeisnt][hypothes.is]]
 - [[https://dribbble.com/jakeisnt][dribbble]]
 - [[https://dwitter.net/u/jakeisnt][dwitter]]
+- [[https://discourse.nixos.org/u/jakeisnt/summary][NixOS forum]]
+- [[https://goodreads.com/jakeisnt][goodreads]]
+- [[https://myanimelist.net/profile/jakeisnt][myanimelist]]
+- [[https://quora.com/profile/jake-isnt][quora]]
 ** Gaming
 - [[http://cubecobra.com/user/view/5d72d5e5d13edd6540b060f3][cubecobra]] 
 - [[http://cubetutor.com/user/jakechvatal][cubetutor]]
@@ -55,6 +59,7 @@ Note that I do not condone, endorse or currently use most of these services.
 ** etc
 - [[https://www.openstreetmap.org/user/jakeisnt][openstreetmap]] 
 - [[https://www.strava.com/athletes/73012159][strava]] 
+- [[https://lesswrong.com/users/jakeisnt][lesswrong]]
 ** Unlinked
 - google :: mailto:jakechvatal@gmail.com
 - discord :: jakeisnt#4275
